@@ -95,9 +95,6 @@ function About() {
                 <span>Name</span>: TANISHA GHOSH
                 </li>
                 <li>
-                <span>Age</span>: 21 years
-                </li>
-                <li>
                 <span>Gender</span>: Female
                 </li>
                 <li>
@@ -115,7 +112,7 @@ function About() {
                 <span>College</span>: Netaji Subhash Engineering College
                 </li>
                 <li>
-                <span>CGPA</span>: 8.5
+                <span>CGPA</span>: 8.37
                 </li>
                 <li>
                 <span>Passout Year</span>: 2026
