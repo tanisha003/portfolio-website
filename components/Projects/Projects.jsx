@@ -44,7 +44,7 @@ function Projects() {
       <div className='slider'>
         <Card title="VIRTUAL ASSISTANT" image={va}/>
         <Card title="SMART AI BOT" image={cb}/>
-        <Card title="Rock Paper Scissor Game" image={rps}/>
+       
         <Card title="PERSONAL PORTFOLIO"/>
         
         
